@@ -1,0 +1,14 @@
+name = "TimeoutAgent"
+filename = "TimeoutAgent-1.0.1.1 (1).jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "89d9b8dc15588ae2a2200a3234805de5137b680f"
+
+[update]
+[update.curseforge]
+file-id = 4063141
+project-id = 696155

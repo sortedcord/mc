@@ -1,0 +1,14 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v4.2.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "96d48912a47b63be46bfaa736681ec4308955006"
+
+[update]
+[update.curseforge]
+file-id = 4352697
+project-id = 593981

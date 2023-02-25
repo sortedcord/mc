@@ -1,0 +1,14 @@
+name = "Rotten Leather"
+filename = "RottenLeather-1.19-1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3e335b0dd35285fedbac0fc6e8ea2965b283a2cd"
+
+[update]
+[update.curseforge]
+file-id = 3874478
+project-id = 231487

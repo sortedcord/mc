@@ -1,0 +1,14 @@
+name = "Legacy Craftable Enchanted Golden Apples"
+filename = "CraftableEnchantedGoldenApple1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ae86d7672819c8f05f98513fbe243e2302a57ca3"
+
+[update]
+[update.curseforge]
+file-id = 4023590
+project-id = 646163

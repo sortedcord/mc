@@ -1,0 +1,14 @@
+name = "Golden Eye"
+filename = "Golden Eye-1.19.2-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "532f12522c6f62ce487b70a4e3f5f366771e8862"
+
+[update]
+[update.curseforge]
+file-id = 4195572
+project-id = 606543
